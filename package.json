@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-lamb",
+  "version": "1.0.0",
+  "description": "LAMB ESLint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAMB-GoCoGroup/eslint-config-lamb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAMB-GoCoGroup/eslint-config-lamb/issues"
+  },
+  "homepage": "https://github.com/LAMB-GoCoGroup/eslint-config-lamb#readme",
+  "dependencies": {
+    "eslint": "^7.24.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
